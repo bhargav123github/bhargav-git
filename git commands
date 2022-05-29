@@ -1,0 +1,14 @@
+git add
+git status
+git commit -m "" file
+git commit -m "all" .
+git log
+git branch name
+git branch
+git checkout -b branch
+git checxkout -d branch
+git remote add origin repository id
+git remote rm origin repository id  repository change cheyyataniki vere repositoryloki pampinchadaniki
+git push -u origin branch name
+git add * all files add avvadaniki
+git commit -m " " .  anni files commit avvadaniki
